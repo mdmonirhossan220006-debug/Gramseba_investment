@@ -1,0 +1,11 @@
+{
+  "settings": {
+    "unitPrice": 1000,
+    "returnPercent": 5,
+    "businessIncome": 0,
+    "paymentNumber": "",
+    "paymentMethod": "bKash / Nagad / Rocket"
+  },
+  "investors": [],
+  "transactions": []
+}
